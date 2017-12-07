@@ -1,0 +1,44 @@
+body{ 
+    text-align: center;
+    justify-content: center;
+    background-color: lightpink;
+   
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin: 2em 0em 2em 0em;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 23px;
+
+}
+
+#iconbox{
+    align-content: center;
+    border: 1px solid black;
+    
+}
+
+h3{
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h2{
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 30px; 
+}
+
+element.style {
+    font-weight: inherit;
+    font-family: cursive;
+    }
+
+img{
+    align-content: center;
+    border: 1px solid black;
+}    
